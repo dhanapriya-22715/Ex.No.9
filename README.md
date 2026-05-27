@@ -28,12 +28,12 @@ Use the crafted prompt to generate the Video in a text-to-Video model (e.g., DAL
 8.	Compare the Generated Video with the Original:
 Assess how closely the generated Video matches the original in terms of colors, composition, subject, and style. Note the differences and refine the prompt if necessary.
 Tools/LLMs for Video Generation:
-●	DALL·E (by OpenAI): A text-to-Video generation tool capable of creating detailed Videos from textual prompts.
-○	Website: DALL·E
-●	Stable Diffusion: An open-source model for generating Videos from text prompts, known for its flexibility and customizable outputs.
-○	Website: Stable Diffusion
-●	MidJourney: A popular AI tool for generating visually striking and creative Videos based on text descriptions.
-○	Website: MidJourney
+a) DALL·E (by OpenAI): A text-to-Video generation tool capable of creating detailed Videos from textual prompts.
+	Website: DALL·E
+b) Stable Diffusion: An open-source model for generating Videos from text prompts, known for its flexibility and customizable outputs.
+	Website: Stable Diffusion
+c) MidJourney: A popular AI tool for generating visually striking and creative Videos based on text descriptions.
+    Website: MidJourney
 
 # Instructions:
 1.	Examine the Given Video: Study the Video to understand its key features—objects, colors, lighting, composition, and any stylistic choices.
@@ -49,6 +49,7 @@ Tools/LLMs for Video Generation:
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated Videos, along with any adjustments made to the prompt.
 # VIDEO 1:
+
 # Procedure
 
 ## 1. Analyze the Given Video
@@ -297,11 +298,13 @@ https://github.com/user-attachments/assets/da04a25b-5cf2-4c59-b7d5-0e1a48a07bff
 
 ---
 
-# Result
 
-The video generation model successfully recreated a visually similar video using carefully refined prompts. Detailed prompts improved the realism, lighting, textures, and cinematic quality of the generated output.
 
 ## Conclusion:
 This experiment demonstrates that carefully refined prompts significantly improve the quality and accuracy of AI-generated videos. By progressively adding detailed information related to objects, colors, lighting, movement, textures, atmosphere, and artistic style, the generated video became highly similar to the original reference video. The experiment also highlights the importance of prompt engineering and iterative refinement while using AI video-generation tools such as [OpenAI Sora / DALL·E](https://openai.com/sora?utm_source=chatgpt.com), [Stable Video Diffusion](https://stability.ai?utm_source=chatgpt.com), [MidJourney](https://www.midjourney.com?utm_source=chatgpt.com), and [Runway ML](https://runwayml.com?utm_source=chatgpt.com). Accurate prompts allow AI models to better understand the intended scene, resulting in realistic, cinematic, and visually compelling video outputs useful in filmmaking, animation, storytelling, gaming, and creative media applications.
 
 By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.
+
+# Result
+
+The video generation model successfully recreated a visually similar video using carefully refined prompts. Detailed prompts improved the realism, lighting, textures, and cinematic quality of the generated output.
